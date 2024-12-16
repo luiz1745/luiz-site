@@ -1,9 +1,10 @@
-body {background-color: deepskyblue;
+body {background-color: black;
     text-align: center;
 }
 
 ol{
     text-align: left;
+    color: aliceblue;
 }
 
 imagem{
@@ -12,3 +13,8 @@ imagem{
     width: 50px;
 
 }
+p{
+    color: aliceblue;
+    font-style: oblique;
+}
+
