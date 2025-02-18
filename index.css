@@ -22,3 +22,8 @@ button {
 color: red    
 }
 
+img{
+    text-align: center;
+    height: 100px;
+    width: 100px;
+}
