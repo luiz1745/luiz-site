@@ -1,6 +1,6 @@
 body {background-image: linear-gradient(to top,#B926E0,#342E36);
-    text-align: center;
     background-attachment: fixed;
+    text-align: center;
 }
 
 main{
@@ -26,6 +26,7 @@ imagem{
 p{
     color: black;
     font-style: oblique;
+    text-align: center;
 }
 
 button {
