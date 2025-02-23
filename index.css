@@ -3,9 +3,17 @@ body {background-image: linear-gradient(to top,#B926E0,#342E36);
     background-attachment: fixed;
 }
 
+main{
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 90px;
+}
+
 ol{
     text-align: left;
-    color: aliceblue;
+    color: rgb(12, 12, 12);
 }
 
 imagem{
@@ -15,7 +23,7 @@ imagem{
 
 }
 p{
-    color: aliceblue;
+    color: black;
     font-style: oblique;
 }
 
