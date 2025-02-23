@@ -1,5 +1,6 @@
-body {background-color: black;
+body {background-image: linear-gradient(to top,#B926E0,#342E36);
     text-align: center;
+    background-attachment: fixed;
 }
 
 ol{
@@ -19,7 +20,7 @@ p{
 }
 
 button {
-color: red    
+color: #0e0d0e;    
 }
 
 img{
